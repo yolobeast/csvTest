@@ -30,8 +30,3 @@ CSV test will let you open 2 CSV file and compare them together and show the dif
 - test8_originalCsvWithMoreItem.csv - This csv is identical to the first one but it has more items 
 - test9_missingEntireColumn.csv - Very similar csv to the first one but its missing the first column 
 - test10_missingBunchOfRows.csv - This is very similar to the first CSV but is missing bunch of rows
-
-
-## Update resume 
-
-- I have uploaded my updated ressume with this repo under Resume folder
